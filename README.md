@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<a href="https://now-playing-profile.fklement.vercel.app/now-playing?open">
+    <img src="https://now-playing-profile.fklement.vercel.app/now-playing" width="256" height="64" alt="Now Playing">`
+</a>
+
 <!--
 **fklement/fklement** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
